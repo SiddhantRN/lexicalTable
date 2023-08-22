@@ -1,0 +1,2 @@
+# lexicalTable
+Created with CodeSandbox
